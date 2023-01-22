@@ -1,1 +1,1 @@
-# not_ortalamasi_hesaplama
+# Patika.Dev Ödev ve Projeleri
